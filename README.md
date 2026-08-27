@@ -1,37 +1,35 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                    INICIALIZAÇÃO DO SISTEMA                    -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:0c4a6e&height=220&section=header&text=FERNANDO%20LEAL&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=INICIALIZA%C3%87%C3%83O%20DO%20SISTEMA%20%E2%80%A2%20PERFIL%20DE%20DESENVOLVEDOR&descAlignY=55&descSize=16&descColor=bae6fd" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Inicializando+FernandoOS...;Bem-vindo+%C3%A0+minha+interface+do+GitHub.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Desenvolvedor;Python+%7C+JavaScript+%7C+C+%7C+C%2B%2B;Desenvolvendo.+Aprendendo.+Melhorando.;Status+do+Sistema%3A+ONLINE+%E2%9C%93" alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Inicializando+FernandoOS...;Bem-vindo+%C3%A0+minha+interface+do+GitHub.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+2%C2%BA+Semestre;Python+%7C+Java+%7C+JavaScript+%7C+C+%2F+C%2B%2B;Interesse+em+IA+e+Cyberseguran%C3%A7a;Status+do+Sistema%3A+ONLINE+%E2%9C%93" alt="Animação de digitação"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/SISTEMA-ONLINE-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO%20DE%20SOFTWARE-0369a1?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCO-CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-0369a1?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-075985?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 ---
 
-## `> sobre_mim`
+## `> sobre_mim --carregar`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Carregando+FernandoOS...;Identidade+verificada%3A+Fernando+Leal;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Status%3A+Aprendendo+%26+Desenvolvendo+%E2%9C%93" alt="Animação de apresentação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Carregando+FernandoOS...;Identidade+verificada%3A+Fernando+Leal;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+Semestre+de+Gradua%C3%A7%C3%A3o;Status%3A+Aprendendo+%26+Desenvolvendo+%E2%9C%93" alt="Animação de apresentação"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-ESTUDANTE%20DE%20CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-0c4a6e?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/STATUS-APRENDENDO%20%26%20DESENVOLVENDO-075985?style=for-the-badge&logo=rocket&logoColor=bae6fd"/>
+<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-ESTUDANTE%20DE%20CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-0c4a6e?style=for-the-badge&logo=googlescholar&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/PER%C3%8DODO-2%C2%BA%20SEMESTRE-075985?style=for-the-badge&logo=readthedocs&logoColor=bae6fd"/>
 <img src="https://img.shields.io/badge/PRINCIPAL%20STACK-PYTHON-0369a1?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br><br>
@@ -44,9 +42,9 @@
 
 <img src="https://img.shields.io/badge/NOME-Fernando%20Leal-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
-<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-Estudante%20%2F%20Desenvolvedor-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-Estudante%20%2F%20Dev%20em%20forma%C3%A7%C3%A3o-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
-<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20de%20Software-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<img src="https://img.shields.io/badge/CURSO-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
 <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-Brasil-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 
@@ -54,16 +52,13 @@
 
 <td align="center" width="50%">
 
-### `EXPLORANDO ATUALMENTE`
+### `ÁREAS DE INTERESSE`
 
-<img src="https://img.shields.io/badge/Python-38bdf8?style=flat-square&logo=python&logoColor=020617"/>
-<img src="https://img.shields.io/badge/JavaScript-facc15?style=flat-square&logo=javascript&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Programa%C3%A7%C3%A3o-38bdf8?style=flat-square&logo=codeforces&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-facc15?style=flat-square&logo=openai&logoColor=020617"/>
 <br>
-<img src="https://img.shields.io/badge/C-38bdf8?style=flat-square&logo=c&logoColor=020617"/>
-<img src="https://img.shields.io/badge/C%2B%2B-38bdf8?style=flat-square&logo=cplusplus&logoColor=020617"/>
-<br>
-<img src="https://img.shields.io/badge/HTML-f97316?style=flat-square&logo=html5&logoColor=020617"/>
-<img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square&logo=css3&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Cyberseguran%C3%A7a-38bdf8?style=flat-square&logo=hackthebox&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-38bdf8?style=flat-square&logo=todoist&logoColor=020617"/>
 
 </td>
 </tr>
@@ -77,11 +72,11 @@
 
 ### Sobre Mim
 
-Olá! Eu sou **Fernando Leal**, estudante de **Ciência da Computação** e apaixonado por tecnologia, programação e desenvolvimento de software.
+Olá! Eu sou **Fernando Leal**, estudante de **Ciência da Computação**, atualmente no **2º semestre** da graduação.
 
-Atualmente estou construindo minha base como desenvolvedor por meio de projetos práticos, estudando diferentes linguagens e aprendendo cada vez mais sobre como transformar ideias em aplicações reais.
+Tenho interesse em desenvolvimento de software e venho colocando meus conhecimentos em prática através de projetos acadêmicos e pessoais. Estou focado em aprimorar minha lógica de programação, desenvolver aplicações e aprender novas tecnologias — com um olhar especial para **Inteligência Artificial** e **Cybersegurança**.
 
-Gosto de entender **como as coisas funcionam por trás do código**, testar novas tecnologias e evoluir um projeto a cada versão.
+Gosto de entender **como as coisas funcionam por trás do código**, testar novos conceitos e evoluir a cada projeto.
 
 <div align="center">
 
@@ -99,23 +94,28 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar nova
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css&theme=dark" />
 
-### Desenvolvimento e Conceitos
+### Ferramentas e Ambiente
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
 <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15"/>
-<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cpp&logoColor=38bdf8"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316"/>
 <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/UML-0f172a?style=for-the-badge&logo=uml&logoColor=bae6fd"/>
 <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316"/>
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
 
@@ -126,15 +126,16 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar nova
 ## `> ferramentas --listar`
 
 ```text
-[01] Visual Studio Code
-[02] Git
-[03] GitHub
-[04] Figma
-[05] Python
-[06] HTML / CSS
-[07] JavaScript
-[08] UML
-[09] GitHub Projects
+[01] Python
+[02] Java
+[03] JavaScript
+[04] HTML / CSS
+[05] C / C++
+[06] UML
+[07] Git
+[08] GitHub
+[09] Visual Studio Code
+[10] Excel e Pacote Office
 ```
 
 ---
@@ -145,20 +146,19 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar nova
 <tr>
 <td width="50%">
 
-### 🧮 Calculadora em Python
+### 🅿️ Sistema de Estacionamento
 
-Projeto desenvolvido em Python com diferentes operações matemáticas, validação de entradas, tratamento de erros e organização por meio de funções.
+Sistema desenvolvido em **Python** para gerenciamento completo de estacionamento — controle de vagas, entrada e saída de veículos.
 
 **Funcionalidades**
 
-* Operações matemáticas
-* `try / except`
-* Loops
-* Validação de entrada
-* Funções reutilizáveis
-* Git e GitHub
+* Lógica de programação aplicada
+* Controle de vagas disponíveis
+* Registro de entrada / saída
+* Estruturas de repetição e condicionais
+* Tratamento de erros
 
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
+<a href="https://github.com/fernandolth">
 <img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -166,19 +166,18 @@ Projeto desenvolvido em Python com diferentes operações matemáticas, validaç
 
 <td width="50%">
 
-### 🏋️ Aplicativo de Academia
+### 🎓 Projetos Acadêmicos
 
-Projeto de aplicação para gerenciamento de academia, pensado com foco em organização, interface e experiência do usuário.
+Coleção de projetos desenvolvidos durante minha graduação em Ciência da Computação, explorando lógica, estruturas de dados e modelagem de sistemas.
 
 **Tecnologias**
 
-* HTML
-* CSS
-* JavaScript
-* Figma
+* C / C++
+* Java
 * UML
+* Lógica de Programação
 
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
+<a href="https://github.com/fernandolth">
 <img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -186,30 +185,18 @@ Projeto de aplicação para gerenciamento de academia, pensado com foco em organ
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🐍 Projetos em Python
-
-Coleção de projetos desenvolvidos durante minha evolução com Python, explorando lógica de programação, funções, estruturas de repetição e tratamento de erros.
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories&q=python">
-<img src="https://img.shields.io/badge/EXPLORAR-0c4a6e?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
+<td colspan="2">
 
 ### 🚀 Mais Projetos
 
-Novos projetos estão sendo desenvolvidos e adicionados ao meu laboratório de código.
+Novos projetos estão sendo desenvolvidos e adicionados conforme avanço na graduação.
 
 ```text
 STATUS: BUILDING...
 NEXT: DEPLOY
 ```
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/fernandolth?tab=repositories">
 <img src="https://img.shields.io/badge/TODOS%20OS%20PROJETOS-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -224,23 +211,41 @@ NEXT: DEPLOY
 ```console
 fernando@dev:~$ cat objetivos.txt
 
-[████████████████████░░] 90%  Aprimorar Python
-[████████████████░░░░░░] 75%  JavaScript
-[██████████████░░░░░░░░] 65%  C / C++
-[████████████░░░░░░░░░░] 60%  Desenvolvimento Web
-[███████████░░░░░░░░░░░] 55%  Engenharia de Software
-[█████████░░░░░░░░░░░░░] 45%  Inteligência Artificial
+[████████████████████░░] 90%  Lógica de Programação
+[███████████████████░░░] 85%  Python
+[██████████████░░░░░░░░] 65%  Desenvolvimento de Aplicações
+[████████████░░░░░░░░░░] 60%  Java / C / C++
+[██████████░░░░░░░░░░░░] 50%  Engenharia de Software
+[███████░░░░░░░░░░░░░░░] 35%  Inteligência Artificial
+[██████░░░░░░░░░░░░░░░░] 30%  Cybersegurança
 
 fernando@dev:~$ ./proximo_passo.sh
 
-> Desenvolver mais projetos
-> Melhorar a resolução de problemas
-> Fortalecer os fundamentos de programação
-> Aprender novas tecnologias
-> Encontrar uma oportunidade na área de tecnologia
+> Aprender e aprimorar conhecimentos em programação
+> Criar projetos para colocar conhecimentos em prática
+> Estudar novas tecnologias (IA & Cybersegurança)
+> Buscar uma oportunidade de ESTÁGIO em Tecnologia
 
 STATUS: EM ANDAMENTO...
 ```
+
+---
+
+## `> contato --conectar`
+
+<div align="center">
+
+<a href="mailto:fernandolealth@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-fernandolealth%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
+</a>
+<a href="https://www.linkedin.com/in/fernando-leal-thomazini-4a30a0379">
+<img src="https://img.shields.io/badge/LINKEDIN-Fernando%20Leal-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
+</a>
+<a href="https://github.com/fernandolth">
+<img src="https://img.shields.io/badge/GITHUB-fernandolth-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+</div>
 
 ---
 
@@ -250,17 +255,17 @@ STATUS: EM ANDAMENTO...
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Obrigado por visitar meu GitHub.                            │
-│                                                              │
-│  Cada repositório é mais um passo nessa jornada.             │
-│                                                              │
-│  > Continue aprendendo.                                      │
-│  > Continue desenvolvendo.                                   │
-│  > Continue evoluindo.                                       │
-│                                                              │
-│  STATUS DO SISTEMA: ONLINE                                   │
-│                                                              │
+│                                                                │
+│  Obrigado por visitar meu GitHub.                             │
+│                                                                │
+│  Cada repositório é mais um passo nessa jornada.              │
+│                                                                │
+│  > Continue aprendendo.                                       │
+│  > Continue desenvolvendo.                                    │
+│  > Continue evoluindo.                                        │
+│                                                                │
+│  STATUS DO SISTEMA: ONLINE                                    │
+│                                                                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
