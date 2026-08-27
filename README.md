@@ -261,8 +261,6 @@ STATUS: EM ANDAMENTO...
 │  > Continue desenvolvendo.                                    │
 │  > Continue evoluindo.                                        │
 │                                                                │
-│  STATUS DO SISTEMA: ONLINE                                    │
-│                                                                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
