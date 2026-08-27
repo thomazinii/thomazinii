@@ -1,216 +1,212 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    INICIALIZAÇÃO DO SISTEMA                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:0c4a6e&height=220&section=header&text=FERNANDO%20LEAL&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=INICIALIZA%C3%87%C3%83O%20DO%20SISTEMA%20%E2%80%A2%20PERFIL%20DE%20DESENVOLVEDOR&descAlignY=55&descSize=16&descColor=bae6fd" width="100%"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Inicializando+FernandoOS...;Bem-vindo+%C3%A0+minha+interface+do+GitHub.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Desenvolvedor;Python+%7C+JavaScript+%7C+C+%7C+C%2B%2B;Desenvolvendo.+Aprendendo.+Melhorando.;Status+do+Sistema%3A+ONLINE+%E2%9C%93" alt="Animação de digitação"/>
-<br>
-<img src="https://img.shields.io/badge/SISTEMA-ONLINE-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO%20DE%20SOFTWARE-0369a1?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-075985?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<!-- ============ BANNER PRINCIPAL ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0a1128,100:03045e&height=260&section=header&text=FERNANDO%20LEAL&fontSize=52&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Dev%20em%20formação%20%7C%20AI%20%26%20Cybersecurity&descAlignY=58&descSize=18&descColor=8ecae6" width="100%"/>
+
+<!-- ============ STATUS DE BOOT ============ -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+INICIALIZANDO+SISTEMA...+%5BOK%5D;%3E+CARREGANDO+PERFIL%3A+FERNANDO_LEAL.exe;%3E+STATUS%3A+ONLINE+%7C+MODO%3A+DESENVOLVEDOR;%3E+MISSÃO%3A+DOMINAR+TECNOLOGIA+E+IA" alt="Typing SVG" />
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=fernandolth&label=VISITANTES&color=00e5ff&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=020024)
+![Foco](https://img.shields.io/badge/FOCO-ESTÁGIO%20EM%20TECNOLOGIA-0a1128?style=for-the-badge&labelColor=020024&color=03a9f4)
+
 </div>
 
-⸻
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-> sobre_mim
+<!-- ============ SOBRE MIM ============ -->
+## `01.` SOBRE_MIM.log
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Carregando+FernandoOS...;Identidade+verificada%3A+Fernando+Leal;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Status%3A+Aprendendo+%26+Desenvolvendo+%E2%9C%93" alt="Animação de apresentação"/>
-<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-ESTUDANTE%20DE%20CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-0c4a6e?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/STATUS-APRENDENDO%20%26%20DESENVOLVENDO-075985?style=for-the-badge&logo=rocket&logoColor=bae6fd"/>
-<img src="https://img.shields.io/badge/PRINCIPAL%20STACK-PYTHON-0369a1?style=for-the-badge&logo=python&logoColor=white"/>
-<table>
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="60%" valign="top">
 
-PERFIL
+```yaml
+usuario:      Fernando Leal
+funcao:       Estudante de Ciência da Computação
+periodo:      2º Semestre
+interesses:
+  - Programação e Lógica de Sistemas
+  - Desenvolvimento de Aplicações
+  - Inteligência Artificial
+  - Cibersegurança
+modo_atual:   APRENDENDO >> CONSTRUINDO >> EVOLUINDO
+```
 
-<img src="https://img.shields.io/badge/NOME-Fernando%20Leal-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
-<br>
-<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-Estudante%20%2F%20Desenvolvedor-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
-<br>
-<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20de%20Software-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
-<br>
-<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-Brasil-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+Sou estudante de **Ciência da Computação**, movido pela curiosidade de entender como
+sistemas inteligentes funcionam por trás das telas. Coloco a teoria em prática através
+de projetos acadêmicos e pessoais, sempre buscando aprimorar minha lógica de programação
+e explorar novas tecnologias — da lógica clássica à inteligência artificial.
+
+> `"Cada linha de código é um passo além do que eu era ontem."`
+
 </td>
-<td align="center" width="50%">
+<td width="40%" align="center">
 
-EXPLORANDO ATUALMENTE
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/nyan-cat.svg" width="100%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=fernandolth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00e5ff&icon_color=03a9f4&text_color=8ecae6&border_radius=12" width="100%"/>
 
-<img src="https://img.shields.io/badge/Python-38bdf8?style=flat-square&logo=python&logoColor=020617"/>
-<img src="https://img.shields.io/badge/JavaScript-facc15?style=flat-square&logo=javascript&logoColor=020617"/>
-<br>
-<img src="https://img.shields.io/badge/C-38bdf8?style=flat-square&logo=c&logoColor=020617"/>
-<img src="https://img.shields.io/badge/C%2B%2B-38bdf8?style=flat-square&logo=cplusplus&logoColor=020617"/>
-<br>
-<img src="https://img.shields.io/badge/HTML-f97316?style=flat-square&logo=html5&logoColor=020617"/>
-<img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square&logo=css3&logoColor=020617"/>
-</td>
-</tr>
-</table>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:082f49,100:0c4a6e&height=3&section=header" width="80%"/>
-</div>
-
-Sobre Mim
-
-Olá! Eu sou Fernando Leal, estudante de Ciência da Computação e apaixonado por tecnologia, programação e desenvolvimento de software.
-
-Atualmente estou construindo minha base como desenvolvedor por meio de projetos práticos, estudando diferentes linguagens e aprendendo cada vez mais sobre como transformar ideias em aplicações reais.
-
-Gosto de entender como as coisas funcionam por trás do código, testar novas tecnologias e evoluir um projeto a cada versão.
-
-<div align="center">
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1200&color=BAE6FD&center=true&vCenter=true&width=850&lines=%2F%2F+Aprender+%E2%86%92+Desenvolver+%E2%86%92+Melhorar+%E2%86%92+Repetir;%2F%2F+O+objetivo+%C3%A9+nunca+parar+de+aprender." alt="Animação de mentalidade"/>
-</div>
-
-⸻
-
-> pilha_tecnologica --carregar
-
-<div align="center">
-
-Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark" />
-
-Desenvolvimento e Conceitos
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15"/>
-<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cpp&logoColor=38bdf8"/>
-<br>
-<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316"/>
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316"/>
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</div>
-
-⸻
-
-> ferramentas --listar
-
-[01] Visual Studio Code
-[02] Git
-[03] GitHub
-[04] Figma
-[05] Python
-[06] HTML / CSS
-[07] JavaScript
-[08] UML
-[09] GitHub Projects
-
-⸻
-
-> projetos --destaque
-
-<table>
-<tr>
-<td width="50%">
-
-🧮 Calculadora em Python
-
-Projeto desenvolvido em Python com diferentes operações matemáticas, validação de entradas, tratamento de erros e organização por meio de funções.
-
-Funcionalidades
-
-* Operações matemáticas
-* try / except
-* Loops
-* Validação de entrada
-* Funções reutilizáveis
-* Git e GitHub
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td width="50%">
-
-🏋️ Aplicativo de Academia
-
-Projeto de aplicação para gerenciamento de academia, pensado com foco em organização, interface e experiência do usuário.
-
-Tecnologias
-
-* HTML
-* CSS
-* JavaScript
-* Figma
-* UML
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-🐍 Projetos em Python
-
-Coleção de projetos desenvolvidos durante minha evolução com Python, explorando lógica de programação, funções, estruturas de repetição e tratamento de erros.
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories&q=python">
-<img src="https://img.shields.io/badge/EXPLORAR-0c4a6e?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-</td>
-<td width="50%">
-
-🚀 Mais Projetos
-
-Novos projetos estão sendo desenvolvidos e adicionados ao meu laboratório de código.
-
-STATUS: BUILDING...
-NEXT: DEPLOY
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/TODOS%20OS%20PROJETOS-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </td>
 </tr>
 </table>
 
-⸻
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-> objetivos_atuais
-
-fernando@dev:~$ cat objetivos.txt
-[████████████████████░░] 90%  Aprimorar Python
-[████████████████░░░░░░] 75%  JavaScript
-[██████████████░░░░░░░░] 65%  C / C++
-[████████████░░░░░░░░░░] 60%  Desenvolvimento Web
-[███████████░░░░░░░░░░░] 55%  Engenharia de Software
-[█████████░░░░░░░░░░░░░] 45%  Inteligência Artificial
-fernando@dev:~$ ./proximo_passo.sh
-> Desenvolver mais projetos
-> Melhorar a resolução de problemas
-> Fortalecer os fundamentos de programação
-> Aprender novas tecnologias
-> Encontrar uma oportunidade na área de tecnologia
-STATUS: EM ANDAMENTO...
-
-⸻
+<!-- ============ TECH STACK ============ -->
+## `02.` TECH_STACK.sys
 
 <div align="center">
 
-MENSAGEM DO SISTEMA
+### ➤ Linguagens & Núcleo
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Obrigado por visitar meu GitHub.                            │
-│                                                              │
-│  Cada repositório é mais um passo nessa jornada.             │
-│                                                              │
-│  > Continue aprendendo.                                      │
-│  > Continue desenvolvendo.                                   │
-│  > Continue evoluindo.                                       │
-│                                                              │
-│  STATUS DO SISTEMA: ONLINE                                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:082f49,100:020617&height=120&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css&theme=dark" />
+
+### ➤ IA, Dados & Modelagem
+
+![AI](https://img.shields.io/badge/Desenvolvimento_de_IA-020024?style=for-the-badge&logo=openai&logoColor=00e5ff)
+![UML](https://img.shields.io/badge/UML-0a1128?style=for-the-badge&logo=uml&logoColor=00e5ff)
+![Excel](https://img.shields.io/badge/Excel_%26_Office-03045e?style=for-the-badge&logo=microsoftexcel&logoColor=00e5ff)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🧠 Lógica & Engenharia | 🛠️ Ferramentas | 🔐 Áreas de Interesse |
+|:---:|:---:|:---:|
+| Lógica de Programação | Git & GitHub | Cybersegurança |
+| Engenharia de Software | VS Code | Inteligência Artificial |
+| Desenvolvimento de Aplicações | Pacote Office | Desenvolvimento de Sistemas |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<!-- ============ PROJETOS ============ -->
+## `03.` PROJETOS.dir
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🅿️ Sistema de Estacionamento
+
+`Python` `Lógica de Programação`
+
+Sistema desenvolvido em **Python** para gerenciamento
+completo de estacionamento — controle de vagas,
+entrada e saída de veículos.
+
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00e5ff?style=for-the-badge&logo=github&logoColor=020024)](https://github.com/fernandolth)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🎓 Projetos Acadêmicos
+
+`C` `C++` `Java` `UML`
+
+Coleção de projetos desenvolvidos ao longo da
+graduação em Ciência da Computação, aplicando
+lógica, estruturas de dados e modelagem UML.
+
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00e5ff?style=for-the-badge&logo=github&logoColor=020024)](https://github.com/fernandolth)
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<!-- ============ OBJETIVOS ATUAIS (TERMINAL) ============ -->
+## `04.` OBJETIVOS_ATUAIS.terminal
+
+<div align="center">
+
+```bash
+fernando@dev:~$ cat objetivos_atuais.txt
+
+[✔] Aprendendo e aprimorando conhecimentos em programação
+[✔] Criando projetos para colocar conhecimentos em prática
+[✔] Estudando novas tecnologias (IA & Cybersegurança)
+[ ] Buscando oportunidade de ESTÁGIO em Tecnologia
+[ ] Expandindo conhecimento em Inteligência Artificial
+
+fernando@dev:~$ echo $STATUS
+>> DISPONÍVEL PARA NOVAS OPORTUNIDADES 🚀
+```
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<!-- ============ ATIVIDADE / MÉTRICAS ============ -->
+## `05.` ATIVIDADE.monitor
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandolth&theme=react-dark&bg_color=020024&color=00e5ff&line=03a9f4&point=ffffff&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolth&layout=compact&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00e5ff&text_color=8ecae6&border_radius=12" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandolth&theme=tokyonight&hide_border=true&background=020024&stroke=00e5ff&ring=03a9f4&fire=00e5ff&currStreakLabel=00e5ff" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=fernandolth&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,PullRequest" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<!-- ============ SNAKE ANIMATION ============ -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fernandolth/fernandolth/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Gerado automaticamente via GitHub Actions — <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<!-- ============ REDES SOCIAIS ============ -->
+## `06.` CONECTAR.net
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/fernandolealth@gmail.com-020024?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:fernandolealth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1128?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/fernando-leal-thomazini-4a30a0379)
+[![GitHub](https://img.shields.io/badge/GitHub-03045e?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/fernandolth)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<!-- ============ RODAPÉ ============ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=3000&pause=1200&color=4A6B8A&center=true&vCenter=true&width=700&lines=%3E+FIM+DE+TRANSMISSÃO..." alt="footer typing" />
+
+<sub>© 2026 Fernando Leal — Compilado com 💙 e algumas xícaras de café.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0a1128,100:020024&height=100&section=footer" width="100%"/>
+
 </div>
