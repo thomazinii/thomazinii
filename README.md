@@ -206,7 +206,7 @@ NEXT: DEPLOY
 ## `> objetivos atuais`
 
 ```console
-fernando@dev:~$ cat objetivos.txt
+
 
 [████████████████████░░] 90%  Lógica de Programação
 [███████████████████░░░] 85%  Python
@@ -216,7 +216,7 @@ fernando@dev:~$ cat objetivos.txt
 [███████░░░░░░░░░░░░░░░] 35%  Inteligência Artificial
 [██████░░░░░░░░░░░░░░░░] 30%  Cybersegurança
 
-fernando@dev:~$ ./proximo_passo.sh
+proximo passo:
 
 > Aprender e aprimorar conhecimentos em programação
 > Criar projetos para colocar conhecimentos em prática
