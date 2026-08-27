@@ -1,14 +1,14 @@
 <div align="center">
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SYSTEM INITIALIZATION                       -->
+<!--                    INICIALIZAÇÃO DO SISTEMA                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:0c4a6e&height=220&section=header&text=FERNANDO%20LEAL&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20INITIALIZATION%20%E2%80%A2%20DEVELOPER%20PROFILE&descAlignY=55&descSize=16&descColor=bae6fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:0c4a6e&height=220&section=header&text=FERNANDO%20LEAL&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=INICIALIZA%C3%87%C3%83O%20DO%20SISTEMA%20%E2%80%A2%20PERFIL%20DE%20DESENVOLVEDOR&descAlignY=55&descSize=16&descColor=bae6fd" width="100%"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Initializing+FernandoOS...;Welcome+to+my+GitHub+interface.;Computer+Science+Student+%7C+Developer;Python+%7C+JavaScript+%7C+C+%7C+C%2B%2B;Building.+Learning.+Improving.;System+Status%3A+ONLINE+%E2%9C%93" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Inicializando+FernandoOS...;Bem-vindo+%C3%A0+minha+interface+do+GitHub.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Desenvolvedor;Python+%7C+JavaScript+%7C+C+%7C+C%2B%2B;Desenvolvendo.+Aprendendo.+Melhorando.;Status+do+Sistema%3A+ONLINE+%E2%9C%93" alt="Animação de digitação"/>
 <br>
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-0369a1?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-075985?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO%20DE%20SOFTWARE-0369a1?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-075985?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </div>
 
 ⸻
@@ -16,27 +16,27 @@
 > sobre_mim
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Loading+FernandoOS...;Identity+verified%3A+Fernando+Leal;Computer+Science+Student;Developer+in+continuous+evolution;Status%3A+Learning+%26+Building+%E2%9C%93" alt="Whoami Animation"/>
-<img src="https://img.shields.io/badge/ROLE-COMPUTER%20SCIENCE%20STUDENT-0c4a6e?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-075985?style=for-the-badge&logo=rocket&logoColor=bae6fd"/>
-<img src="https://img.shields.io/badge/MAIN%20STACK-PYTHON-0369a1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Carregando+FernandoOS...;Identidade+verificada%3A+Fernando+Leal;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Status%3A+Aprendendo+%26+Desenvolvendo+%E2%9C%93" alt="Animação de apresentação"/>
+<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-ESTUDANTE%20DE%20CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-0c4a6e?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/STATUS-APRENDENDO%20%26%20DESENVOLVENDO-075985?style=for-the-badge&logo=rocket&logoColor=bae6fd"/>
+<img src="https://img.shields.io/badge/PRINCIPAL%20STACK-PYTHON-0369a1?style=for-the-badge&logo=python&logoColor=white"/>
 <table>
 <tr>
 <td align="center" width="50%">
 
 PERFIL
 
-<img src="https://img.shields.io/badge/NAME-Fernando%20Leal-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<img src="https://img.shields.io/badge/NOME-Fernando%20Leal-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
-<img src="https://img.shields.io/badge/ROLE-Student%20%2F%20Developer-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-Estudante%20%2F%20Desenvolvedor-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
-<img src="https://img.shields.io/badge/FOCUS-Software%20Development-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20de%20Software-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
-<img src="https://img.shields.io/badge/LOCATION-Brazil-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-Brasil-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 </td>
 <td align="center" width="50%">
 
-CURRENTLY EXPLORING
+EXPLORANDO ATUALMENTE
 
 <img src="https://img.shields.io/badge/Python-38bdf8?style=flat-square&logo=python&logoColor=020617"/>
 <img src="https://img.shields.io/badge/JavaScript-facc15?style=flat-square&logo=javascript&logoColor=020617"/>
@@ -57,18 +57,18 @@ Sobre Mim
 
 Olá! Eu sou Fernando Leal, estudante de Ciência da Computação e apaixonado por tecnologia, programação e desenvolvimento de software.
 
-Atualmente estou construindo minha base como desenvolvedor através de projetos práticos, estudando diferentes linguagens e aprendendo cada vez mais sobre como transformar ideias em aplicações reais.
+Atualmente estou construindo minha base como desenvolvedor por meio de projetos práticos, estudando diferentes linguagens e aprendendo cada vez mais sobre como transformar ideias em aplicações reais.
 
 Gosto de entender como as coisas funcionam por trás do código, testar novas tecnologias e evoluir um projeto a cada versão.
 
 <div align="center">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1200&color=BAE6FD&center=true&vCenter=true&width=850&lines=%2F%2F+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;%2F%2F+The+goal+is+to+never+stop+learning." alt="Mindset Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1200&color=BAE6FD&center=true&vCenter=true&width=850&lines=%2F%2F+Aprender+%E2%86%92+Desenvolver+%E2%86%92+Melhorar+%E2%86%92+Repetir;%2F%2F+O+objetivo+%C3%A9+nunca+parar+de+aprender." alt="Animação de mentalidade"/>
 </div>
 
 ⸻
 
-> tech_stack --load
+> pilha_tecnologica --carregar
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Linguagens
 
 <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark" />
 
-Desenvolvimento & Conceitos
+Desenvolvimento e Conceitos
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8"/>
@@ -92,7 +92,7 @@ Desenvolvimento & Conceitos
 
 ⸻
 
-> tools --list
+> ferramentas --listar
 
 [01] Visual Studio Code
 [02] Git
@@ -114,7 +114,7 @@ Desenvolvimento & Conceitos
 
 🧮 Calculadora em Python
 
-Projeto desenvolvido em Python com diferentes operações matemáticas, validação de entradas, tratamento de erros e organização através de funções.
+Projeto desenvolvido em Python com diferentes operações matemáticas, validação de entradas, tratamento de erros e organização por meio de funções.
 
 Funcionalidades
 
@@ -123,7 +123,7 @@ Funcionalidades
 * Loops
 * Validação de entrada
 * Funções reutilizáveis
-* Git & GitHub
+* Git e GitHub
 
 <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
 <img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
