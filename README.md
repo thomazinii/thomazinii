@@ -13,7 +13,7 @@
 
 ⸻
 
-> whoami
+> sobre_mim
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Loading+FernandoOS...;Identity+verified%3A+Fernando+Leal;Computer+Science+Student;Developer+in+continuous+evolution;Status%3A+Learning+%26+Building+%E2%9C%93" alt="Whoami Animation"/>
@@ -24,7 +24,7 @@
 <tr>
 <td align="center" width="50%">
 
-PROFILE
+PERFIL
 
 <img src="https://img.shields.io/badge/NAME-Fernando%20Leal-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
 <br>
@@ -106,17 +106,17 @@ Desenvolvimento & Conceitos
 
 ⸻
 
-> projects --featured
+> projetos --destaque
 
 <table>
 <tr>
 <td width="50%">
 
-🧮 Python Calculator
+🧮 Calculadora em Python
 
 Projeto desenvolvido em Python com diferentes operações matemáticas, validação de entradas, tratamento de erros e organização através de funções.
 
-Features
+Funcionalidades
 
 * Operações matemáticas
 * try / except
@@ -126,16 +126,16 @@ Features
 * Git & GitHub
 
 <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 
-🏋️ Academia App
+🏋️ Aplicativo de Academia
 
 Projeto de aplicação para gerenciamento de academia, pensado com foco em organização, interface e experiência do usuário.
 
-Stack
+Tecnologias
 
 * HTML
 * CSS
@@ -144,31 +144,31 @@ Stack
 * UML
 
 <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-🐍 Python Projects
+🐍 Projetos em Python
 
 Coleção de projetos desenvolvidos durante minha evolução com Python, explorando lógica de programação, funções, estruturas de repetição e tratamento de erros.
 
 <a href="https://github.com/SEU_USUARIO?tab=repositories&q=python">
-<img src="https://img.shields.io/badge/EXPLORE-0c4a6e?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORAR-0c4a6e?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 
-🚀 More Projects
+🚀 Mais Projetos
 
 Novos projetos estão sendo desenvolvidos e adicionados ao meu laboratório de código.
 
 STATUS: BUILDING...
 NEXT: DEPLOY
 <a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/ALL%20PROJECTS-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/TODOS%20OS%20PROJETOS-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -176,40 +176,40 @@ NEXT: DEPLOY
 
 ⸻
 
-> current_objectives
+> objetivos_atuais
 
-fernando@dev:~$ cat objectives.txt
-[████████████████████░░] 90%  Improve Python
+fernando@dev:~$ cat objetivos.txt
+[████████████████████░░] 90%  Aprimorar Python
 [████████████████░░░░░░] 75%  JavaScript
 [██████████████░░░░░░░░] 65%  C / C++
-[████████████░░░░░░░░░░] 60%  Web Development
-[███████████░░░░░░░░░░░] 55%  Software Engineering
-[█████████░░░░░░░░░░░░░] 45%  Artificial Intelligence
-fernando@dev:~$ ./next_step.sh
-> Build more projects
-> Improve problem solving
-> Strengthen programming fundamentals
-> Learn new technologies
-> Find an opportunity in the technology industry
-STATUS: IN PROGRESS...
+[████████████░░░░░░░░░░] 60%  Desenvolvimento Web
+[███████████░░░░░░░░░░░] 55%  Engenharia de Software
+[█████████░░░░░░░░░░░░░] 45%  Inteligência Artificial
+fernando@dev:~$ ./proximo_passo.sh
+> Desenvolver mais projetos
+> Melhorar a resolução de problemas
+> Fortalecer os fundamentos de programação
+> Aprender novas tecnologias
+> Encontrar uma oportunidade na área de tecnologia
+STATUS: EM ANDAMENTO...
 
 ⸻
 
 <div align="center">
 
-SYSTEM MESSAGE
+MENSAGEM DO SISTEMA
 
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  Thanks for visiting my GitHub.                              │
+│  Obrigado por visitar meu GitHub.                            │
 │                                                              │
-│  Every repository is another step in the journey.            │
+│  Cada repositório é mais um passo nessa jornada.             │
 │                                                              │
-│  > Keep learning.                                            │
-│  > Keep building.                                            │
-│  > Keep evolving.                                            │
+│  > Continue aprendendo.                                      │
+│  > Continue desenvolvendo.                                   │
+│  > Continue evoluindo.                                       │
 │                                                              │
-│  SYSTEM STATUS: ONLINE                                       │
+│  STATUS DO SISTEMA: ONLINE                                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:082f49,100:020617&height=120&section=footer" width="100%"/>
