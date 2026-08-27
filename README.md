@@ -15,16 +15,43 @@
 
 > whoami
 
-╭──────────────────────────────────────────────────────────────╮
-│                     FERNANDO LEAL                            │
-├──────────────────────────────────────────────────────────────┤
-│ Role       : Computer Science Student / Developer            │
-│ Status     : Learning & Building                             │
-│ Main Stack : Python                                           │
-│ Exploring  : JavaScript • C • C++ • HTML • CSS                │
-│ Interests  : Software • AI • Programming • Technology        │
-│ Mindset    : Learn → Build → Improve → Repeat                │
-╰──────────────────────────────────────────────────────────────╯
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Loading+FernandoOS...;Identity+verified%3A+Fernando+Leal;Computer+Science+Student;Developer+in+continuous+evolution;Status%3A+Learning+%26+Building+%E2%9C%93" alt="Whoami Animation"/>
+<img src="https://img.shields.io/badge/ROLE-COMPUTER%20SCIENCE%20STUDENT-0c4a6e?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-075985?style=for-the-badge&logo=rocket&logoColor=bae6fd"/>
+<img src="https://img.shields.io/badge/MAIN%20STACK-PYTHON-0369a1?style=for-the-badge&logo=python&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+PROFILE
+
+<img src="https://img.shields.io/badge/NAME-Fernando%20Leal-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<br>
+<img src="https://img.shields.io/badge/ROLE-Student%20%2F%20Developer-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<br>
+<img src="https://img.shields.io/badge/FOCUS-Software%20Development-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+<br>
+<img src="https://img.shields.io/badge/LOCATION-Brazil-020617?style=flat-square&labelColor=0c4a6e&color=020617"/>
+</td>
+<td align="center" width="50%">
+
+CURRENTLY EXPLORING
+
+<img src="https://img.shields.io/badge/Python-38bdf8?style=flat-square&logo=python&logoColor=020617"/>
+<img src="https://img.shields.io/badge/JavaScript-facc15?style=flat-square&logo=javascript&logoColor=020617"/>
+<br>
+<img src="https://img.shields.io/badge/C-38bdf8?style=flat-square&logo=c&logoColor=020617"/>
+<img src="https://img.shields.io/badge/C%2B%2B-38bdf8?style=flat-square&logo=cplusplus&logoColor=020617"/>
+<br>
+<img src="https://img.shields.io/badge/HTML-f97316?style=flat-square&logo=html5&logoColor=020617"/>
+<img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square&logo=css3&logoColor=020617"/>
+</td>
+</tr>
+</table>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:082f49,100:0c4a6e&height=3&section=header" width="80%"/>
+</div>
 
 Sobre Mim
 
@@ -34,9 +61,10 @@ Atualmente estou construindo minha base como desenvolvedor através de projetos 
 
 Gosto de entender como as coisas funcionam por trás do código, testar novas tecnologias e evoluir um projeto a cada versão.
 
-// The goal isn't to know everything.
-
-// The goal is to never stop learning.
+<div align="center">
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1200&color=BAE6FD&center=true&vCenter=true&width=850&lines=%2F%2F+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;%2F%2F+The+goal+is+to+never+stop+learning." alt="Mindset Animation"/>
+</div>
 
 ⸻
 
@@ -54,7 +82,7 @@ Desenvolvimento & Conceitos
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15"/>
 <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cpp&logoColor=38bdf8"/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316"/>
 <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8"/>
@@ -164,59 +192,6 @@ fernando@dev:~$ ./next_step.sh
 > Learn new technologies
 > Find an opportunity in the technology industry
 STATUS: IN PROGRESS...
-
-⸻
-
-> github --analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=0ea5e9&text_color=bae6fd&ring_color=38bdf8&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=bae6fd&langs_count=8"/>
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=020617&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=bae6fd&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" width="80%"/>
-</div>
-
-⸻
-
-> activity --monitor
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=020617&color=38bdf8&line=0ea5e9&point=bae6fd&area=true&hide_border=true" width="100%"/>
-</div>
-
-⸻
-
-> achievements --scan
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="90%"/>
-</div>
-
-⸻
-
-> contribution_matrix
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
-⸻
-
-> social --connect
-
-<div align="center">
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
-</a>
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
-</a>
-</div>
 
 ⸻
 
