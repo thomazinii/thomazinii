@@ -174,7 +174,7 @@ Coleção de projetos desenvolvidos durante minha graduação em Ciência da Com
 * UML
 * Lógica de Programação
 
-<a href="https://github.com/fernandolth">
+<a href="https://github.com/fernandolth/Calculadora.git">
 <img src="https://img.shields.io/badge/VER%20PROJETO-0c4a6e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
