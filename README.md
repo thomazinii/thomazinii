@@ -17,11 +17,11 @@
 <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-075985?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
-
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Carregando+FernandoOS...;Identidade+verificada%3A+Fernando+Leal;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+Semestre+de+Gradua%C3%A7%C3%A3o;Status%3A+Aprendendo+%26+Desenvolvendo+%E2%9C%93" alt="Animação de apresentação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Carregando+Fernando...;Identidade+verificada%3A+Fernando+Leal;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+Semestre+de+Gradua%C3%A7%C3%A3o;Status%3A+Aprendendo+%26+Desenvolvendo+%E2%9C%93" alt="Animação de apresentação"/>
 
 <br><br>
 
