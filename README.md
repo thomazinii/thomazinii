@@ -20,7 +20,7 @@
 
 ---
 
-## `> sobre_mim --carregar`
+## ``
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar novo
 
 ---
 
-## `> pilha_tecnologica --carregar`
+## `> Tech Stack`
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar novo
 
 ---
 
-## `> ferramentas --listar`
+## `> ferramentas`
 
 ```text
 [01] Python
@@ -140,7 +140,7 @@ Gosto de entender **como as coisas funcionam por trás do código**, testar novo
 
 ---
 
-## `> projetos --destaque`
+## `> projetos`
 
 <table>
 <tr>
@@ -206,7 +206,7 @@ NEXT: DEPLOY
 
 ---
 
-## `> objetivos_atuais`
+## `> objetivos atuais`
 
 ```console
 fernando@dev:~$ cat objetivos.txt
@@ -231,7 +231,7 @@ STATUS: EM ANDAMENTO...
 
 ---
 
-## `> contato --conectar`
+## `> contato`
 
 <div align="center">
 
